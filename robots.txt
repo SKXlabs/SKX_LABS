@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://skxlabs.com/sitemap.xml
+Sitemap: https://skxlabs.github.io/SKX_LABS/sitemap.xml
