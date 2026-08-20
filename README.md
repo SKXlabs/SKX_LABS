@@ -3,7 +3,7 @@
 > Next-generation technical engineering to position high-growth brands as the primary cited authority across **ChatGPT**, **Perplexity**, and **Google AI Overviews**.
 
 [![HubSpot Certified AEO](https://img.shields.io/badge/HubSpot-Certified_AEO-orange.svg)](https://academy.hubspot.com)
-[![FreeAcademy Certified GEO](https://img.shields.io/badge/FreeAcademy-Certified_GEO-blue.svg)](https://freeacademy.ai)
+[![FreeAcademy Certified GEO](https://img.shields.io/badge/FreeAcademy-Certified_GEO-blue.svg)](https://freeacademy.ai/verify/FA-2026-GGEO-7ECICA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -25,10 +25,6 @@
 
 ## 📬 Contact & Inquiries
 * **Founder:** Shivkumar Gonaki
-* **LinkedIn:** https://www.linkedin.com/in/skx-labs/
-* **x(TWITTER):** https://x.com/SGonaki60527
-* **Instagram:** https://www.instagram.com/skxlabs/
-* **Schedule Call:** (https://calendar.app.google/NbQQAyePQxbRy6358) 
-## Support/Contact 
-* **Gmail:** shivkumargonaki@gmail.com/shivkumargg69@gmail.com 
-* **alternative Gmail:** skx_labs@skxlabs.com
+* **Live Site:** [skxlabs.github.io/SKX_LABS/](https://skxlabs.github.io/SKX_LABS/)
+* **LinkedIn:** [linkedin.com/in/skx-labs/](https://www.linkedin.com/in/skx-labs/)
+* **Schedule Call:** [calendar.app.google/NbQQAyePQxbRy6358](https://calendar.app.google/NbQQAyePQxbRy6358)
