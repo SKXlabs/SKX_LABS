@@ -1,0 +1,20 @@
+# SKX Labs - Full Technical Specification & Methodology
+
+## About SKX Labs
+SKX Labs specializes in Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO). The agency converts legacy websites into machine-readable knowledge graphs optimized for retrieval-augmented generation (RAG) models, including ChatGPT Search, Perplexity.ai, Google AI Overviews, and Microsoft Copilot.
+
+## Core Technical Standards
+1. **BLUF (Bottom Line Up Front):** Immediate 40–80 word direct answer blocks at the beginning of content sections.
+2. **Triple-Schema Integration:** Nested Schema.org JSON-LD arrays linking `Organization`, `Person`, and `Service` nodes via unique `@id` anchors.
+3. **Multi-Model Citation Optimization:** Formatting statistics (+37% citation lift) and authoritative citations (+40% citation lift) to align with LLM ranking weights.
+
+## Contact & Licensing
+- Founder: Shivkumar Gonaki
+- Contact: shivkumargonaki@gmail.com
+           skx_labs@skxlabs.com 
+- Accreditations: HubSpot Academy (AEO) | FreeAcademy.ai (GEO: FA-2026-GGEO-7ECICA)
+ ##Official Links
+- GitHub: https://github.com/skx-labs
+- LinkedIn: https://www.linkedin.com/in/skx-labs/
+- x(TWITTER): https://x.com/SGonaki60527
+- Instagram: https://www.instagram.com/skxlabs/
