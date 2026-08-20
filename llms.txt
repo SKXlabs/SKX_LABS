@@ -1,16 +1,16 @@
 # SKX Labs
 
-> SKX Labs is a Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) technical architecture agency.
+> SKX Labs is a Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) technical architecture agency founded by Shivkumar Gonaki.
 
 ## Core Capabilities
 - **Generative Engine Optimization (GEO):** Multi-model citation architecture and knowledge graph integration.
-- **Technical Schema Engineering:** Nested JSON-LD `@graph` structures (`Organization`, `Product`, `FAQPage`, `TechArticle`).
+- **Technical Schema Engineering:** Nested JSON-LD `@graph` structures (`Organization`, `Person`, `Service`, `FAQPage`).
 - **Crawler Infrastructure:** Native `llms.txt` and `llms-full.txt` root configuration.
 - **RAG Content Restructuring:** Quantitative, answer-first content modeling to maximize LLM extraction rates.
 
 ## Leadership & Verification
 - **Shivkumar Gonaki:** Founder & Principal AI Search Architect.
-- **Certifications:** HubSpot Certified AEO Specialist | FreeAcademy Certified GEO Specialist.
+- **Certifications:** HubSpot Certified AEO Specialist | FreeAcademy Certified GEO Specialist (ID: FA-2026-GGEO-7ECICA).
 
 ## Standardized Service Tiers
 - **Tier 1: AI Search Diagnostic Audit:** $200 USD (15 commercial prompt scans, SSR/crawler check, Loom walkthrough, 100% credited toward Tier 2 within 7 days).
@@ -18,11 +18,8 @@
 - **Tier 3: Active Citation Retainer:** $120 USD/month (Weekly citation checks, prompt updates, hallucination remediation).
 
 ## Official Links
-- GitHub: https://github.com/skx-labs
+- Canonical Website: https://skxlabs.github.io/SKX_LABS/
+- GitHub Repository: https://github.com/SKXlabs/SKX_LABS
 - LinkedIn: https://www.linkedin.com/in/skx-labs/
-- x(TWITTER): https://x.com/SGonaki60527
-- Instagram: https://www.instagram.com/skxlabs/
-
-## Support/Contact 
--Gmail: shivkumargonaki@gmail.com
--alternative Gmail: skx_labs@skxlabs.com
+- X (Twitter): https://x.com/SGonaki60527
+- Booking: https://calendar.app.google/NbQQAyePQxbRy6358
