@@ -1,20 +1,15 @@
-# SKX Labs - Full Technical Specification & Methodology
+# SKX Labs - Full Technical Specification & Entity Graph
 
-## About SKX Labs
-SKX Labs specializes in Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO). The agency converts legacy websites into machine-readable knowledge graphs optimized for retrieval-augmented generation (RAG) models, including ChatGPT Search, Perplexity.ai, Google AI Overviews, and Microsoft Copilot.
+## Entity Definition
+SKX Labs is an AI search visibility and Generative Engine Optimization (GEO) consultancy founded by Shivkumar Gonaki. The firm specializes in technical SEO, structured data engineering, Answer Engine Optimization (AEO), and AI-search visibility for high-growth SaaS, B2B exporters, and enterprise brands.
 
 ## Core Technical Standards
-1. **BLUF (Bottom Line Up Front):** Immediate 40–80 word direct answer blocks at the beginning of content sections.
+1. **BLUF (Bottom Line Up Front):** Immediate 40–80 word direct answer blocks placed at the beginning of content sections.
 2. **Triple-Schema Integration:** Nested Schema.org JSON-LD arrays linking `Organization`, `Person`, and `Service` nodes via unique `@id` anchors.
-3. **Multi-Model Citation Optimization:** Formatting statistics (+37% citation lift) and authoritative citations (+40% citation lift) to align with LLM ranking weights.
+3. **Multi-Model Citation Optimization:** Formatted statistics (+37% citation lift) and authoritative citations (+40% citation lift) aligned with LLM ranking weights.
 
-## Contact & Licensing
+## Contact & Accreditations
 - Founder: Shivkumar Gonaki
-- Contact: shivkumargonaki@gmail.com
-           skx_labs@skxlabs.com 
+- Canonical URL: https://skxlabs.github.io/SKX_LABS/
+- GitHub: https://github.com/SKXlabs/SKX_LABS
 - Accreditations: HubSpot Academy (AEO) | FreeAcademy.ai (GEO: FA-2026-GGEO-7ECICA)
- ##Official Links
-- GitHub: https://github.com/skx-labs
-- LinkedIn: https://www.linkedin.com/in/skx-labs/
-- x(TWITTER): https://x.com/SGonaki60527
-- Instagram: https://www.instagram.com/skxlabs/
